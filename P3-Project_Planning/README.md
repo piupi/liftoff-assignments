@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [all desktop wireframes](desktop.png)
+* [all mobile wireframes](mobile.png)
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Here is the [Trello](https://trello.com/b/i1uZ9SaZ/vanessa-kratohvil-capstone) for the project I was originally going to work on. However, I changed my idea, so I'm going to work on a new Trello board.
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+No repo yet since I changed my idea.
