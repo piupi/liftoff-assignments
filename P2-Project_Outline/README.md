@@ -53,3 +53,6 @@ Future Features (First two are my goal during CoderGirl LiftOff)
 
 [Project](https://foodjournal.netlify.app/) 
 (Please **do not** delete my preloaded pictures. You can add your own picture and delete it.)
+
+### NOTE:
+I changed my mind about doing this project. I am just going to make a portfolio page for myself rather than messing with my old project.
