@@ -56,3 +56,5 @@ Future Features (First two are my goal during CoderGirl LiftOff)
 
 ### NOTE:
 I changed my mind about doing this project. I am just going to make a portfolio page for myself rather than messing with my old project.
+
+[Here's the repo of the project I'm doing](https://github.com/piupi/vk-portfolio). Will update this outline later.
